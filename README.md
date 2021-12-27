@@ -9,4 +9,6 @@ For this project, I was tasked by my company, PlayMyTrip, to create a Customer T
 ![Vacation Map](https://github.com/crtallent/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_Vacation_Map.png)
 * Travel Itinerary Map - map showing the route between four cities from the consumer's preferences.  An additional map is provided with pop-up markers for each city.
 ![Travel Map](http://localhost:8888/view/Desktop/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+
 ![Travel Map with Markers](http://localhost:8888/view/Desktop/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
