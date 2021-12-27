@@ -12,3 +12,10 @@ For this project, I was tasked by my company, PlayMyTrip, to create a Customer T
 
 ![Travel Map with Markers](https://github.com/crtallent/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
+## Resources
+- Data sources: WeatherPy_Database.csv, WeatherPy_vacation.csv, OpenWeatherMap
+- Software: Python 3.7.6, Jupyter Notebook 7.29.0
+
+## World_Weather_Analysis Summary
+The tools created for this project are extraordinarily useful for planning vacations, especially if a client would like to plan their vacation ahead of time.  Using this information, a client can select their weather preferences, hotels, and even get an itinerary for their trip.  They also have access to real-time information, such as current weather conditions, humidity level, and percent cloudiness.
+
