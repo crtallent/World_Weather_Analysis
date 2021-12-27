@@ -11,4 +11,4 @@ For this project, I was tasked by my company, PlayMyTrip, to create a Customer T
 ![Travel Map](http://localhost:8888/view/Desktop/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 
-![Travel Map with Markers](http://localhost:8888/view/Desktop/World_Weather_Analysis/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
